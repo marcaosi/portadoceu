@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8131677.chunk.css",
+    "main.js": "/static/js/main.1147667d.chunk.js",
+    "main.js.map": "/static/js/main.1147667d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59b1432c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59b1432c.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.6161e693.chunk.js": "/static/js/2.6161e693.chunk.js",
+    "static/js/2.6161e693.chunk.js.map": "/static/js/2.6161e693.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d7c33940039fbbe592d54753cb98370d.js": "/precache-manifest.d7c33940039fbbe592d54753cb98370d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.e8131677.chunk.css.map": "/static/css/main.e8131677.chunk.css.map",
+    "static/js/2.6161e693.chunk.js.LICENSE.txt": "/static/js/2.6161e693.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/static/media/banner.5f09e183.jpg",
+    "static/media/logo.svg": "/static/media/logo.6096db25.svg",
+    "static/media/novidades.png": "/static/media/novidades.3a3e4514.png",
+    "static/media/novidades2.png": "/static/media/novidades2.b7653dd2.png",
+    "static/media/novidades3.png": "/static/media/novidades3.8b96a2f5.png",
+    "static/media/sobre.jpg": "/static/media/sobre.78973f74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59b1432c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6161e693.chunk.js",
+    "static/css/main.e8131677.chunk.css",
+    "static/js/main.1147667d.chunk.js"
+  ]
+}
