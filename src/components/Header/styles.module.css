@@ -1,0 +1,19 @@
+.containerLogo{
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.navbar{
+    background-color: #E1C06A;
+}
+
+.navbar a{
+    color: #4D4D4D !important;
+    font-weight: bold;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+
+.navbar a:hover{
+    cursor: pointer;
+}
